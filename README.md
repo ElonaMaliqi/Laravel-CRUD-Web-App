@@ -6,10 +6,24 @@ We can start the server and run this project using the below command.
 *  php artisan serve
 
 Now we will run our example using the below Url in the browser.
-* `http://127.0.0.1:8000/perdoruesi`
+* `http://127.0.0.1:8000/perdoruesi`\
+
+![1](https://github.com/ElonaMaliqi/Laravel-CRUD-Web-App/assets/113908382/b5422da0-6e95-4fb2-81fb-e853020f0b0f)\
+
+* Update\
+
+![2](https://github.com/ElonaMaliqi/Laravel-CRUD-Web-App/assets/113908382/605249f0-1f76-4f22-bb52-ecd5befd1f4c)\
+
+* Create\
+
+![3](https://github.com/ElonaMaliqi/Laravel-CRUD-Web-App/assets/113908382/41e02764-9aec-4912-b1d6-df81f9cf0686)
 
 
-![Screenshot 2024-04-27 190007](https://github.com/ElonaMaliqi/Laravel-CRUD-Web-App/assets/113908382/6e1569ef-262e-47f5-bd60-4efdd4ef26bd)
+
+
+
+
+
 
 
 
