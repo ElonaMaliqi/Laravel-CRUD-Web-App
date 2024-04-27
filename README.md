@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project description
+Developed a CRUD web application to manage user data for Kosovo's Telecom, as part of a university project. Please note that this project description is for illustrative purposes only and does not represent actual data or projects undertaken by Kosovo's Telecom.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
