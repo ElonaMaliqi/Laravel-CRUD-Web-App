@@ -6,7 +6,7 @@ We can start the server and run this project using the below command.
 *  php artisan serve
 
 Now we will run our example using the below Url in the browser.
-* http://127.0.0.1:8000/perdoruesi
+* `http://127.0.0.1:8000/perdoruesi`
 
 
 
