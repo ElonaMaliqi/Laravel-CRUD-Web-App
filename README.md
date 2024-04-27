@@ -2,12 +2,10 @@
 Developed a CRUD web application to manage user data for Kosovo's Telecom, as part of a university project. Please note that this project description is for illustrative purposes only and does not represent actual data or projects undertaken by Kosovo's Telecom.
 
 
-We can start the server and run this project using the below command.
-1
-php artisan serve
-Now we will run our example using the below Url in the browser.
-1
-http://127.0.0.1:8000/perdoruesi
+We can start the server and run this project using the below command.\
+php artisan serve\
+Now we will run our example using the below Url in the browser.\
+http://127.0.0.1:8000/perdoruesi\
 
 
 
