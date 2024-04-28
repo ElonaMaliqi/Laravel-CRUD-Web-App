@@ -1,5 +1,5 @@
 ## Project description
-Developed a CRUD web application to manage user data for Kosovo's Telecom, as part of a university project, using **PHP**, **MySQL**, and **Laravel framework**. Please note that this project description is for illustrative purposes only and does not represent actual data or projects undertaken by Kosovo's Telecom.
+This is a CRUD web application to manage user data for Kosovo's Telecom, developed using **PHP**, **MySQL**, and **Laravel framework**. Please note that this project description is for illustrative purposes only and does not represent actual data or projects undertaken by Kosovo's Telecom.
 
 
 We can start the server and run this project using the below command.
