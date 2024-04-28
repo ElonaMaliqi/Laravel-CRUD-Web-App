@@ -9,6 +9,8 @@ We can start the server and run this project using the below command.
 Now we will run our example using the below Url in the browser.
 * `http://127.0.0.1:8000/perdoruesi`
 
+## Screenshots
+
 ![1](https://github.com/ElonaMaliqi/Laravel-CRUD-Web-App/assets/113908382/b5422da0-6e95-4fb2-81fb-e853020f0b0f)
 
 * Update
